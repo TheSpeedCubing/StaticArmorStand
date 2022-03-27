@@ -1,0 +1,6 @@
+name: StaticArmorStand
+main: speedcubing.staticarmorstand.Main
+version: 1.0
+commands:
+  staticarmorstand:
+    usage: /staticarmorstand
